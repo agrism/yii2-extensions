@@ -1,5 +1,5 @@
 {
-  "name": "deele/yii2-extensions",
+  "name": "agrism/yii2-extensions",
   "description": "Yii2 extensions installer, handler and library",
   "keywords": [
     "yii2"
@@ -13,8 +13,8 @@
   },
   "authors": [
     {
-      "name": "Nils (Deele)",
-      "email": "deele@tuta.io"
+      "name": "Agris M",
+      "email": "7924@inbox.lv"
     }
   ],
   "minimum-stability": "dev",
